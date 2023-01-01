@@ -3,6 +3,6 @@
 
  <div>
   <a href="https://github.com/dendriel">
-  <img height="180em" align="left" src="http://github-readme-streak-stats.herokuapp.com?user=dendriel&theme=noctis-minimus">
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dendriel&langs_count=6&layout=compact&theme=noctis_minimus"/>
-  </div>
+  <img height="180em" align="left" src="https://streak-stats.demolab.com/?user=martadrozsa&theme=noctis-minimus">
+ </div>
